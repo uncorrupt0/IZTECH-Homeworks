@@ -25,7 +25,7 @@ public class ScholarshipEvaluationSystem {
      */
     public static void main(String[] args) {
         // Configuration
-        final String CSV_FILENAME = "files\\ScholarshipApplications.csv";
+        final String CSV_FILENAME = "files/ScholarshipApplications.csv";
         
         // Step 1: Read applications from CSV file
         System.out.println("Reading scholarship applications from " + CSV_FILENAME + "...");
